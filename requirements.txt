@@ -1,0 +1,6 @@
+Flask
+flask-cors
+flasgger
+python-dotenv
+requests
+trimesh
